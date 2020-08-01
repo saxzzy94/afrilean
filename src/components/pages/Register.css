@@ -1,0 +1,25 @@
+#register {
+	margin: 0;
+	height: 150vh;
+	width: 100%;
+	background-image: url("../../images/online-learning_0.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.backdropR {
+	position: absolute;
+	height: 150%;
+	width: 100%;
+	background-image: linear-gradient(
+		to top,
+		rgba(0, 0, 0, 1),
+		rgba(0, 0, 0, 0.4)
+	);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}

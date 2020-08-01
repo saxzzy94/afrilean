@@ -1,0 +1,36 @@
+#about {
+	margin: 0;
+	height: 100vh;
+	width: 100%;
+	background-image: url("../../images/online-learning_0.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: repeat-y;
+	background-attachment: fixed;
+}
+
+.backdropA {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	background-image: linear-gradient(
+		to top,
+		rgba(0, 0, 0, 1),
+		rgba(0, 0, 0, 0.4)
+	);
+	background-position: center;
+	background-size: cover;
+	background-repeat: repeat-y;
+	background-attachment: fixed;
+}
+.about_text {
+	color: #f1f1f1;
+	margin-left: 100px;
+	height: 300px;
+	font-size: 1.5rem;
+}
+.content_box {
+	margin-top: 200px;
+	margin-left: 100px;
+	height: 300px;
+}

@@ -1,0 +1,9 @@
+.nav__dark {
+	background-color: rgb(0, 0, 0);
+	transition-timing-function: ease-in;
+	transition: all 0.7s;
+}
+.secondary {
+	transition-timing-function: ease-out;
+	transition: all 0.7s;
+}
