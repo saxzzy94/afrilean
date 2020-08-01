@@ -28,12 +28,14 @@ const Header = () => {
 		>
 			<div className='ui container'>
 				<div className='left menu '>
-					<img
-						className='item'
-						src={logo}
-						alt='Afrilearn'
-						style={{ width: "150px", objectFit: "contain", margin: "0" }}
-					/>
+					<a href='/'>
+						<img
+							className='item'
+							src={logo}
+							alt='Afrilearn'
+							style={{ width: "150px", objectFit: "contain", margin: "0" }}
+						/>
+					</a>
 				</div>
 
 				<div className='right menu '>

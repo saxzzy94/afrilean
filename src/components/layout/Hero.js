@@ -20,7 +20,7 @@ const Hero = () => {
 								className='ui green massive button'
 								style={{ marginTop: "3rem", marginBottom: "4rem" }}
 							>
-								Get Started
+								<a href='/signup'>Get Started</a>
 							</button>
 						</div>
 					</div>
